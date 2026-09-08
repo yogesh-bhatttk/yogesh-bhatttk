@@ -9,7 +9,7 @@
 
 </div>
 
-Results-driven QA Engineer with 3+ years of experience delivering high-quality web applications in Agile environments — 1,200+ defects managed across 17+ production releases with a 99.5% deployment success rate. I specialize in risk-based & exploratory testing, JIRA-based defect management, and Playwright-based test automation, with hands-on experience validating GDPR compliance and enterprise onboarding flows.
+Results-driven QA Engineer with 3+ years of experience delivering high-quality web applications in Agile environments — 1,600+ defects managed across 17+ production releases with a 99.5% deployment success rate. I specialize in risk-based & exploratory testing, JIRA-based defect management, and Playwright-based test automation, with hands-on experience validating GDPR compliance and enterprise onboarding flows.
 
 By day I work in QA at Prosperix AI; outside of that, I build Manifest V3 browser extensions with a focus on **privacy** (no uploads, no accounts, everything processed on-device) and **developer experience**. My side projects span messaging/social cleanup tools, offline document processing, and test-automation tooling.
 
@@ -18,7 +18,7 @@ By day I work in QA at Prosperix AI; outside of that, I build Manifest V3 browse
 <br>
 
 - Delivered end-to-end manual QA for 17+ production releases, achieving a 99.5% deployment success rate
-- Managed the complete defect lifecycle for 1,200+ issues in JIRA, ensuring 98% of critical defects were resolved prior to deployment
+- Managed the complete defect lifecycle for 1,600+ issues in JIRA, ensuring 98% of critical defects were resolved prior to deployment
 - Reduced post-release critical defects by 15% through proactive risk-based and exploratory testing
 - Reduced average testing cycle time by 20% through process improvements driven in sprint planning and retrospectives
 - Validated GDPR compliance controls for European client deployments with zero compliance failures
