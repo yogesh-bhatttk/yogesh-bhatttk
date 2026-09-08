@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yogesh Bhatt 👋
+# Hi, I'm Yogesh 👋
 
 ### QA Engineer at Prosperix AI — building privacy-first browser tools on the side
 
