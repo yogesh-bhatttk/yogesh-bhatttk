@@ -14,12 +14,12 @@ I build Manifest V3 browser extensions and dev tooling with a focus on **privacy
 
 ### 🔭 What I'm building
 
-| Project | Description |
-|---|---|
-| 🧹 **[erasechat](https://github.com/yogesh-bhatttk/erasechat)** | Bulk delete and clean your own messages across Slack, Reddit, X, Mastodon, Microsoft Teams, Bluesky, and Telegram — a Manifest V3 extension with advanced filters and safety controls. |
-| 📎 **[stapler](https://github.com/yogesh-bhatttk/stapler)** | Offline PDF toolkit: merge, split, compress, sign, and redact — entirely in the browser via WebAssembly. No upload, no account, no limits. |
-| 🔍 **[Locator_Lens](https://github.com/yogesh-bhatttk/Locator_Lens)** | E2E test authoring extension: ranked/uniqueness-checked locators, Shadow DOM & iframe-aware inspection, and one-click test recording to Playwright, Selenium, or Cypress. |
-| 🔐 **[bulk-clean-oauth](https://github.com/yogesh-bhatttk/bulk-clean-oauth)** | OAuth client-metadata host supporting the erasechat extension's AT Protocol (Bluesky) login. |
+| Project | Description | Build |
+|---|---|---|
+| 🧹 **[erasechat](https://github.com/yogesh-bhatttk/erasechat)** | Bulk delete and clean your own messages across Slack, Reddit, X, Mastodon, Microsoft Teams, Bluesky, and Telegram — a Manifest V3 extension with advanced filters and safety controls. | [![CI](https://github.com/yogesh-bhatttk/erasechat/actions/workflows/ci.yml/badge.svg)](https://github.com/yogesh-bhatttk/erasechat/actions/workflows/ci.yml) |
+| 📎 **[stapler](https://github.com/yogesh-bhatttk/stapler)** | Offline PDF toolkit: merge, split, compress, sign, and redact — entirely in the browser via WebAssembly. No upload, no account, no limits. | [![CI](https://github.com/yogesh-bhatttk/stapler/actions/workflows/ci.yml/badge.svg)](https://github.com/yogesh-bhatttk/stapler/actions/workflows/ci.yml) |
+| 🔍 **[Locator_Lens](https://github.com/yogesh-bhatttk/Locator_Lens)** | E2E test authoring extension: ranked/uniqueness-checked locators, Shadow DOM & iframe-aware inspection, and one-click test recording to Playwright, Selenium, or Cypress. | [![CI](https://github.com/yogesh-bhatttk/Locator_Lens/actions/workflows/ci.yml/badge.svg)](https://github.com/yogesh-bhatttk/Locator_Lens/actions/workflows/ci.yml) |
+| 🔐 **[bulk-clean-oauth](https://github.com/yogesh-bhatttk/bulk-clean-oauth)** | OAuth client-metadata host supporting the erasechat extension's AT Protocol (Bluesky) login. | — |
 
 ---
 
@@ -44,10 +44,24 @@ I build Manifest V3 browser extensions and dev tooling with a focus on **privacy
 
 </div>
 
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh-bhatttk&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yogesh-bhatttk&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
 ---
 
 <div align="center">
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yogesh-8b0b563a1)
+
+![Profile views](https://komarev.com/ghpvc/?username=yogesh-bhatttk&style=flat&color=blue&label=Profile+views)
 
 </div>
