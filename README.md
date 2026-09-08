@@ -2,13 +2,13 @@
 
 # Hi, I'm Yogesh Bhatt 👋
 
-### Browser Extension Developer — building privacy-first tools that run entirely client-side
+### QA Engineer at Prosperix AI — building privacy-first browser tools on the side
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-8b0b563a1)
 
 </div>
 
-I build Manifest V3 browser extensions and dev tooling with a focus on **privacy** (no uploads, no accounts, everything processed on-device) and **developer experience**. My work spans messaging/social cleanup tools, offline document processing, and test-automation tooling.
+By day I work in QA at Prosperix AI; outside of that, I build Manifest V3 browser extensions with a focus on **privacy** (no uploads, no accounts, everything processed on-device) and **developer experience**. My side projects span messaging/social cleanup tools, offline document processing, and test-automation tooling.
 
 ---
 
