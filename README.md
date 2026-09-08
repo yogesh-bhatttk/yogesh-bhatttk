@@ -44,18 +44,6 @@ By day I work in QA at Prosperix AI; outside of that, I build Manifest V3 browse
 
 </div>
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh-bhatttk&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yogesh-bhatttk&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
 ---
 
 <div align="center">
