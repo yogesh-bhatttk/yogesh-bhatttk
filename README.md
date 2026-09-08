@@ -5,7 +5,7 @@
 ### QA Engineer at Prosperix AI — building privacy-first browser tools on the side
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-8b0b563a1)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshbhatttk@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yogeshbhatttk@gmail.com)
 
 </div>
 
@@ -93,7 +93,7 @@ By day I work in QA at Prosperix AI; outside of that, I build Manifest V3 browse
 
 <div align="center">
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yogesh-8b0b563a1) or [email](mailto:yogeshbhatttk@gmail.com)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yogesh-8b0b563a1) or [email](mailto:Yogeshbhatttk@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=yogesh-bhatttk&style=flat&color=blue&label=Profile+views)
 
