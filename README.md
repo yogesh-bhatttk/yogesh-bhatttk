@@ -59,12 +59,12 @@ By day I work in QA at Prosperix AI; outside of that, I build Manifest V3 browse
 
 ### 🔭 What I'm building
 
-| Project | Description | Build |
-|---|---|---|
-| 🧹 **[erasechat](https://github.com/yogesh-bhatttk/erasechat)** | Bulk delete and clean your own messages across Slack, Reddit, X, Mastodon, Microsoft Teams, Bluesky, and Telegram — a Manifest V3 extension with advanced filters and safety controls. | [![CI](https://github.com/yogesh-bhatttk/erasechat/actions/workflows/ci.yml/badge.svg)](https://github.com/yogesh-bhatttk/erasechat/actions/workflows/ci.yml) |
-| 📎 **[stapler](https://github.com/yogesh-bhatttk/stapler)** | Offline PDF toolkit: merge, split, compress, sign, and redact — entirely in the browser via WebAssembly. No upload, no account, no limits. | [![CI](https://github.com/yogesh-bhatttk/stapler/actions/workflows/ci.yml/badge.svg)](https://github.com/yogesh-bhatttk/stapler/actions/workflows/ci.yml) |
-| 🔍 **[Locator_Lens](https://github.com/yogesh-bhatttk/Locator_Lens)** | E2E test authoring extension: ranked/uniqueness-checked locators, Shadow DOM & iframe-aware inspection, and one-click test recording to Playwright, Selenium, or Cypress. | [![CI](https://github.com/yogesh-bhatttk/Locator_Lens/actions/workflows/ci.yml/badge.svg)](https://github.com/yogesh-bhatttk/Locator_Lens/actions/workflows/ci.yml) |
-| 🔐 **[bulk-clean-oauth](https://github.com/yogesh-bhatttk/bulk-clean-oauth)** | OAuth client-metadata host supporting the erasechat extension's AT Protocol (Bluesky) login. | — |
+| Project | Description | Install | Build |
+|---|---|---|---|
+| 🧹 **[erasechat](https://github.com/yogesh-bhatttk/erasechat)** | Bulk delete and clean your own messages across Slack, Reddit, X, Mastodon, Microsoft Teams, Bluesky, and Telegram — a Manifest V3 extension with advanced filters and safety controls. | — | [![CI](https://github.com/yogesh-bhatttk/erasechat/actions/workflows/ci.yml/badge.svg)](https://github.com/yogesh-bhatttk/erasechat/actions/workflows/ci.yml) |
+| 📎 **[stapler](https://github.com/yogesh-bhatttk/stapler)** | Offline PDF toolkit: merge, split, compress, sign, and redact — entirely in the browser via WebAssembly. No upload, no account, no limits. | [![Chrome Web Store](https://img.shields.io/badge/Chrome-Install-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/stapler-%E2%80%94-offline-pdf-too/jeligfmdmcmjpfgcmkjepbmkpgejgpll) | [![CI](https://github.com/yogesh-bhatttk/stapler/actions/workflows/ci.yml/badge.svg)](https://github.com/yogesh-bhatttk/stapler/actions/workflows/ci.yml) |
+| 🔍 **[Locator_Lens](https://github.com/yogesh-bhatttk/Locator_Lens)** | E2E test authoring extension: ranked/uniqueness-checked locators, Shadow DOM & iframe-aware inspection, and one-click test recording to Playwright, Selenium, or Cypress. | [![Chrome Web Store](https://img.shields.io/badge/Chrome-Install-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/locatorlens-%E2%80%93-smart-locat/amnagildbdfgfcjijilomhelgdbpgmeb) | [![CI](https://github.com/yogesh-bhatttk/Locator_Lens/actions/workflows/ci.yml/badge.svg)](https://github.com/yogesh-bhatttk/Locator_Lens/actions/workflows/ci.yml) |
+| 🔐 **[bulk-clean-oauth](https://github.com/yogesh-bhatttk/bulk-clean-oauth)** | OAuth client-metadata host supporting the erasechat extension's AT Protocol (Bluesky) login. | — | — |
 
 ---
 
